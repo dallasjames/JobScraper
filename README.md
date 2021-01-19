@@ -2,6 +2,8 @@
 
 Getting just the basics from major job searching websites for full stack developement
 
-git clone https://github.com/dallasjames/JobScraper.git
-cd JobScraper
-python3 scraper.py
+<code>git clone https://github.com/dallasjames/JobScraper.git</code>
+</br>
+<code>cd JobScraper</code>
+</br>
+<code>python3 scraper.py</code>
